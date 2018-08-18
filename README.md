@@ -1,2 +1,2 @@
 # Openhash-Electron
-Desktom electron miner software dashboard
+Multiplatform Desktop Electron Cryptocurrency mining Dashboard
